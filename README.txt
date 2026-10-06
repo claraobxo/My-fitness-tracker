@@ -1,0 +1,1 @@
+Upload index.html, manifest.webmanifest and sw.js to the ROOT of your GitHub repository (not inside a folder). Then GitHub Pages will serve index.html.
