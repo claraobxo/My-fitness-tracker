@@ -1,1 +1,3 @@
-Upload index.html, manifest.webmanifest and sw.js to the ROOT of your GitHub repository (not inside a folder). Then GitHub Pages will serve index.html.
+Fitness Tracker V3
+
+Personal fitness accountability PWA. Sage-green background, blush-pink accents and burgundy typography. Data is stored locally on the device.
